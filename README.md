@@ -82,12 +82,14 @@ Controllers are responsible for managing specific hardware components and encaps
 - ```ButtonController``` Handles user input from physical buttons.
 - ```PumpController``` Controls the water pump via a relay.
 
-####Modes
+#### Modes
 Modes represent different operational states of the system, each focusing on a specific aspect of user interaction. They manage how data is processed and presented, and how system components interact.
 - ```CoreMode``` Acts as the central hub, integrating all other modes and managing the overall system state.
 - ```EnvironmentMode``` Displays real-time environmental data (temperature and humidity) from the EnvironmentSensorController on the LCD.
 - ```SoilMode``` Focuses on soil moisture readings and allows the user to view and adjust moisture reads.
 - ```PumpMode``` Manages and configure the operation of the water pumpVersion 1: the protoboard.
+  ![final_1](https://github.com/user-attachments/assets/37c2c56d-47d9-4cd6-b52d-a1e9b92cc3e0)
+
 
 ## Contributing
 
