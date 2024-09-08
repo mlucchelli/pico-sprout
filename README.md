@@ -14,6 +14,7 @@ Monitor and automate the watering of your indoor plants using the Raspberry Pi P
 - [License](#license)
 
 ## Getting Started
+You can learn more about this project in the full [article](https://medium.com/@nosoul88/pico-sprout-because-your-plants-dont-need-the-internet-to-survive-but-you-do-17f73d3300d1).
 
 ### Components
 
