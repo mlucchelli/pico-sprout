@@ -1,4 +1,5 @@
-# Pico-Sprout: Because Your Plants Don't Need Internet to Survive Like You
+# Pico-Sprout
+**Because Your Plants Don't Need the Internet to Survive - But You Do**
 
 Monitor and automate the watering of your indoor plants using the Raspberry Pi Pico. This MicroPython-based project analyzes soil moisture, temperature, and humidity to maintain an optimal environment for your plants. The system provides an affordable, easy-to-build solution without relying on internet connectivity.
 ![image](https://github.com/user-attachments/assets/9c8572e1-b782-4649-9348-3e06037e675d)
